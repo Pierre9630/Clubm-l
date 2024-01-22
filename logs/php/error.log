@@ -1,0 +1,21 @@
+[23-Dec-2023 14:07:01 UTC] Shell mysql dump error. Change SQL Mode to the "PHP Code" in the Duplicator > Settings > Packages. DETAIL:
+[23-Dec-2023 14:07:01 UTC] Runtime error in DUP_Database::Build. Shell mysql dump error. Change SQL Mode to the "PHP Code" in the Duplicator > Settings > Packages. DETAIL:Exception: Exception: Shell mysql dump error. Change SQL Mode to the "PHP Code" in the Duplicator > Settings > Packages. in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\duplicator\classes\class.logging.php:301
+Stack trace:
+#0 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\duplicator\classes\package\class.pack.database.php(599): DUP_Log::error('Shell mysql dum...', '', 1)
+#1 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\duplicator\classes\package\class.pack.database.php(230): DUP_Database->mysqlDump('C:/xampp/mysql/...')
+#2 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\duplicator\classes\package\class.pack.php(1373): DUP_Database->build(Object(DUP_Package), 1)
+#3 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\duplicator\ctrls\ctrl.package.php(89): DUP_Package->runZipBuild()
+#4 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\class-wp-hook.php(324): duplicator_package_build('')
+#5 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\Pierre\Local Sites\club-ml\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_duplica...')
+#8 {main}
+[19-Jan-2024 11:17:42 UTC] PHP Fatal error:  Out of memory (allocated 12582912 bytes) (tried to allocate 32768 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\comment-template.php on line 2597
+[19-Jan-2024 11:17:42 UTC] PHP Fatal error:  Out of memory (allocated 25165824 bytes) (tried to allocate 32768 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-admin\includes\file.php on line 2665
+[19-Jan-2024 13:11:19 UTC] PHP Fatal error:  Out of memory (allocated 20971520 bytes) (tried to allocate 20480 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\rest-api\endpoints\class-wp-rest-sidebars-controller.php on line 216
+[19-Jan-2024 14:09:41 UTC] PHP Fatal error:  Out of memory (allocated 54525952 bytes) (tried to allocate 2621440 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\header-footer-elementor\inc\class-header-footer-elementor.php on line 78
+[19-Jan-2024 14:09:41 UTC] PHP Fatal error:  Out of memory (allocated 54525952 bytes) (tried to allocate 2621440 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\pluggable.php on line 41
+[19-Jan-2024 14:09:43 UTC] PHP Fatal error:  Out of memory (allocated 58720256 bytes) (tried to allocate 524288 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\themes\kadence\inc\components\styles\component.php on line 1351
+[19-Jan-2024 14:09:43 UTC] PHP Fatal error:  Out of memory (allocated 58720256 bytes) (tried to allocate 40960 bytes) in C:\Users\Pierre\Local Sites\club-ml\app\public\wp-includes\error-protection.php on line 48
+[19-Jan-2024 21:44:07 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Jan-2024 21:49:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}

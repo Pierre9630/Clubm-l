@@ -1,0 +1,462 @@
+0000.000 (0) Opened log file at time: Tue, 09 Jan 2024 17:25:39 +0000 on http://club-ml.local
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.2.10 (cgi-fcgi, Windows NT DESKTOP-F9L44GT 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 67M | 70M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 733.6 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.011 (0) Semaphore (fd, wp_options) being initialised
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.025 (0) Set semaphore last lock (fd) time to 2024-01-09 17:25:40
+0000.027 (0) Semaphore lock (fd) complete
+0000.033 (0) Backup run: resumption=0, nonce=0417b43b9286, file_nonce=0417b43b9286 begun at=1704821139 (1s ago), job type=backup
+0000.036 (0) Scheduling a resumption (1) after 300 seconds (1704821440) in case this run gets aborted
+0000.051 (0) Checking if we have a zip executable available
+0000.054 (0) Creation of backups of directories: beginning
+0000.060 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.016 (0) Total entities for the zip file: 1207 directories, 7071 files (0 skipped as non-modified), 160.9 MB
+0002.045 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.070 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.096 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.121 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.148 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.172 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.197 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.221 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.246 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.272 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.275 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.4 MB, 7071 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0011.809 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1100 files added (on-disk size: 4337.1 KB)
+0011.838 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1200 files added (on-disk size: 4337.1 KB)
+0011.864 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1300 files added (on-disk size: 4337.1 KB)
+0011.889 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1400 files added (on-disk size: 4337.1 KB)
+0011.894 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 7071 files batched, 413 (1414) added so far); re-opening (prior size: 4337.1 KB)
+0018.517 (0) A useful amount of data was added after this amount of zip processing: 7.5 s (normalised: 7.5 s, rate: 3413.6 KB/s)
+0018.584 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1500 files added (on-disk size: 9228.8 KB)
+0018.612 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1600 files added (on-disk size: 9228.8 KB)
+0018.636 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1700 files added (on-disk size: 9228.8 KB)
+0018.661 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1800 files added (on-disk size: 9228.8 KB)
+0018.684 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1900 files added (on-disk size: 9228.8 KB)
+0018.708 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2000 files added (on-disk size: 9228.8 KB)
+0018.732 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2100 files added (on-disk size: 9228.8 KB)
+0018.757 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2200 files added (on-disk size: 9228.8 KB)
+0018.781 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2300 files added (on-disk size: 9228.8 KB)
+0018.805 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2400 files added (on-disk size: 9228.8 KB)
+0018.810 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.4 MB, 7071 files batched, 1001 (2415) added so far); re-opening (prior size: 9228.8 KB)
+0033.816 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2500 files added (on-disk size: 17105.8 KB)
+0033.842 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2600 files added (on-disk size: 17105.8 KB)
+0033.867 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2700 files added (on-disk size: 17105.8 KB)
+0033.892 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2800 files added (on-disk size: 17105.8 KB)
+0033.918 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2900 files added (on-disk size: 17105.8 KB)
+0033.943 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3000 files added (on-disk size: 17105.8 KB)
+0033.966 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 7071 files batched, 675 (3090) added so far); re-opening (prior size: 17105.8 KB)
+0043.294 (0) A useful amount of data was added after this amount of zip processing: 10.3 s (normalised: 10.1 s, rate: 2543.9 KB/s)
+0043.319 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3100 files added (on-disk size: 30570.4 KB)
+0043.342 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3200 files added (on-disk size: 30570.4 KB)
+0043.364 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3300 files added (on-disk size: 30570.4 KB)
+0043.386 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3400 files added (on-disk size: 30570.4 KB)
+0043.410 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3500 files added (on-disk size: 30570.4 KB)
+0043.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 7071 files batched, 474 (3564) added so far); re-opening (prior size: 30570.4 KB)
+0047.782 (0) A useful amount of data was added after this amount of zip processing: 4.8 s (normalised: 4.7 s, rate: 5428.6 KB/s)
+0047.785 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.7695560455322, normalised_time=4.7158036481525, max_time=47.782835960388, data points known=1, old_max_bytes=26214400, new_max_bytes=159370296)
+0047.818 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3600 files added (on-disk size: 36566.4 KB)
+0047.843 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3700 files added (on-disk size: 36566.4 KB)
+0047.870 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3800 files added (on-disk size: 36566.4 KB)
+0047.894 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3900 files added (on-disk size: 36566.4 KB)
+0047.918 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4000 files added (on-disk size: 36566.4 KB)
+0047.943 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4100 files added (on-disk size: 36566.4 KB)
+0047.969 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4200 files added (on-disk size: 36566.4 KB)
+0048.000 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4300 files added (on-disk size: 36566.4 KB)
+0048.026 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4400 files added (on-disk size: 36566.4 KB)
+0048.053 (0) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4500 files added (on-disk size: 36566.4 KB)
+0048.070 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.1 MB, 7071 files batched, 1001 (4565) added so far); re-opening (prior size: 36566.4 KB)
+0577.721 (1) Opened log file at time: Tue, 09 Jan 2024 17:35:17 +0000 on http://club-ml.local
+0577.723 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.2.10 (cgi-fcgi, Windows NT DESKTOP-F9L44GT 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.5M | 64M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0577.725 (1) Free space on disk containing Updraft's temporary directory: 655.9 MB
+0577.739 (1) Requesting backup semaphore lock (0417b43b9286)
+0577.744 (1) [Debug] Lock option (updraft_lock_0417b43b9286, wp_options) was created in the database
+0577.746 (1) [Info] Lock (updraft_lock_0417b43b9286, wp_options) acquired after initialising the database
+0577.749 (1) Backup run: resumption=1, nonce=0417b43b9286, file_nonce=0417b43b9286 begun at=1704821139 (578s ago), job type=backup, previous check-in=47.79s
+0577.754 (1) Scheduling a resumption (2) after 300 seconds (1704822017) in case this run gets aborted
+0577.771 (1) Checking if we have a zip executable available
+0577.775 (1) Creation of backups of directories: had begun; will resume
+0577.780 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0577.784 (1) File exists (C:\Users\Pierre\Local Sites\club-ml\app\public/wp-content/updraft/backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp), but was not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1704821188, time_now=1704821717, diff=529)
+0577.834 (1) backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: Zip file already exists, with 3564 files
+0579.281 (1) Total entities for the zip file: 1207 directories, 7071 files (0 skipped as non-modified), 160.9 MB
+0579.308 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 100 files added (on-disk size: 36566.4 KB)
+0579.312 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 200 files added (on-disk size: 36566.4 KB)
+0579.316 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 300 files added (on-disk size: 36566.4 KB)
+0579.319 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 400 files added (on-disk size: 36566.4 KB)
+0579.323 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 500 files added (on-disk size: 36566.4 KB)
+0579.326 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 600 files added (on-disk size: 36566.4 KB)
+0579.330 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 700 files added (on-disk size: 36566.4 KB)
+0579.333 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 800 files added (on-disk size: 36566.4 KB)
+0579.337 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 900 files added (on-disk size: 36566.4 KB)
+0579.341 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1000 files added (on-disk size: 36566.4 KB)
+0579.346 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1100 files added (on-disk size: 36566.4 KB)
+0579.351 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1200 files added (on-disk size: 36566.4 KB)
+0579.354 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1300 files added (on-disk size: 36566.4 KB)
+0579.357 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1400 files added (on-disk size: 36566.4 KB)
+0579.361 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1500 files added (on-disk size: 36566.4 KB)
+0579.364 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1600 files added (on-disk size: 36566.4 KB)
+0579.367 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1700 files added (on-disk size: 36566.4 KB)
+0579.371 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1800 files added (on-disk size: 36566.4 KB)
+0579.374 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 1900 files added (on-disk size: 36566.4 KB)
+0579.377 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2000 files added (on-disk size: 36566.4 KB)
+0579.383 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2100 files added (on-disk size: 36566.4 KB)
+0579.387 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2200 files added (on-disk size: 36566.4 KB)
+0579.392 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2300 files added (on-disk size: 36566.4 KB)
+0579.398 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2400 files added (on-disk size: 36566.4 KB)
+0579.403 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2500 files added (on-disk size: 36566.4 KB)
+0579.408 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2600 files added (on-disk size: 36566.4 KB)
+0579.413 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2700 files added (on-disk size: 36566.4 KB)
+0579.418 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2800 files added (on-disk size: 36566.4 KB)
+0579.422 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 2900 files added (on-disk size: 36566.4 KB)
+0579.427 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3000 files added (on-disk size: 36566.4 KB)
+0579.433 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3100 files added (on-disk size: 36566.4 KB)
+0579.437 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3200 files added (on-disk size: 36566.4 KB)
+0579.441 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3300 files added (on-disk size: 36566.4 KB)
+0579.444 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3400 files added (on-disk size: 36566.4 KB)
+0579.448 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3500 files added (on-disk size: 36566.4 KB)
+0579.456 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3600 files added (on-disk size: 36566.4 KB)
+0579.481 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3700 files added (on-disk size: 36566.4 KB)
+0579.503 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3800 files added (on-disk size: 36566.4 KB)
+0579.527 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 3900 files added (on-disk size: 36566.4 KB)
+0579.548 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4000 files added (on-disk size: 36566.4 KB)
+0579.753 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4100 files added (on-disk size: 36566.4 KB)
+0579.772 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4200 files added (on-disk size: 36566.4 KB)
+0579.795 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4300 files added (on-disk size: 36566.4 KB)
+0579.814 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4400 files added (on-disk size: 36566.4 KB)
+0579.837 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4500 files added (on-disk size: 36566.4 KB)
+0579.853 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.1 MB, 7071 files batched, 1001 (1001) added so far); re-opening (prior size: 36566.4 KB)
+0582.508 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4600 files added (on-disk size: 43328.4 KB)
+0582.528 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4700 files added (on-disk size: 43328.4 KB)
+0582.548 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4800 files added (on-disk size: 43328.4 KB)
+0582.566 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 4900 files added (on-disk size: 43328.4 KB)
+0582.585 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5000 files added (on-disk size: 43328.4 KB)
+0582.605 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5100 files added (on-disk size: 43328.4 KB)
+0582.624 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5200 files added (on-disk size: 43328.4 KB)
+0582.643 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5300 files added (on-disk size: 43328.4 KB)
+0582.662 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5400 files added (on-disk size: 43328.4 KB)
+0582.682 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5500 files added (on-disk size: 43328.4 KB)
+0582.695 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 7071 files batched, 1001 (2002) added so far); re-opening (prior size: 43328.4 KB)
+0591.944 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5600 files added (on-disk size: 46300.8 KB)
+0591.965 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5700 files added (on-disk size: 46300.8 KB)
+0591.985 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5800 files added (on-disk size: 46300.8 KB)
+0592.005 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 5900 files added (on-disk size: 46300.8 KB)
+0592.025 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6000 files added (on-disk size: 46300.8 KB)
+0592.044 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6100 files added (on-disk size: 46300.8 KB)
+0592.064 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6200 files added (on-disk size: 46300.8 KB)
+0592.084 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6300 files added (on-disk size: 46300.8 KB)
+0592.105 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6400 files added (on-disk size: 46300.8 KB)
+0592.125 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6500 files added (on-disk size: 46300.8 KB)
+0592.139 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.8 MB, 7071 files batched, 1001 (3003) added so far); re-opening (prior size: 46300.8 KB)
+0602.225 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6600 files added (on-disk size: 53802.8 KB)
+0602.244 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6700 files added (on-disk size: 53802.8 KB)
+0602.263 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6800 files added (on-disk size: 53802.8 KB)
+0602.283 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 6900 files added (on-disk size: 53802.8 KB)
+0602.305 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.tmp: 7000 files added (on-disk size: 53802.8 KB)
+0610.122 (1) Creating zip file manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.list-temp.tmp)
+0610.144 (1) Successfully created zip file manifest (size: 581707)
+0610.507 (1) Created plugins zip (0) - 54971.1 KB in 32.7 s (1680.9 KB/s) (sha1: 8aa836e626c9d0149cf5d591c32506dda6ac887c, sha256: 2e9e560784c77a1a34985cff4d3c312be519bc692a8edaaf044140c18e1c748f)
+0610.518 (1) Cloud backup selection (1/1): none with instance (1/1) (last)
+0610.519 (1) No remote despatch: user chose no remote backup service
+0610.520 (1) Recording as successfully uploaded: backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip
+0610.523 (1) Deleting zip manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip.list.tmp)
+0610.527 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0610.529 (1) Number of backup sets in history: 0; groups (db): 1
+0610.530 (1) Number of backup sets in history: 0; groups (files): 1
+0610.532 (1) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0610.545 (1) Beginning creation of dump of themes (split every: 400 MB)
+0611.352 (1) Total entities for the zip file: 319 directories, 2035 files (0 skipped as non-modified), 44.2 MB
+0611.385 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0611.413 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0611.447 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0611.475 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0611.501 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0611.531 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0611.558 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0611.582 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0611.606 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0611.630 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0611.633 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16 MB, 2035 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0620.962 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1100 files added (on-disk size: 6301.9 KB)
+0620.989 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1200 files added (on-disk size: 6301.9 KB)
+0621.017 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1300 files added (on-disk size: 6301.9 KB)
+0621.042 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1400 files added (on-disk size: 6301.9 KB)
+0621.072 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1500 files added (on-disk size: 6301.9 KB)
+0621.099 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1600 files added (on-disk size: 6301.9 KB)
+0621.124 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1700 files added (on-disk size: 6301.9 KB)
+0621.148 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1800 files added (on-disk size: 6301.9 KB)
+0621.173 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1900 files added (on-disk size: 6301.9 KB)
+0621.198 (1) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 2000 files added (on-disk size: 6301.9 KB)
+0621.200 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28 MB, 2035 files batched, 1001 (2002) added so far); re-opening (prior size: 6301.9 KB)
+0878.744 (2) Opened log file at time: Tue, 09 Jan 2024 17:40:18 +0000 on http://club-ml.local
+0878.746 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.2.10 (cgi-fcgi, Windows NT DESKTOP-F9L44GT 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.4M | 60M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0878.747 (2) Free space on disk containing Updraft's temporary directory: 621.5 MB
+0878.750 (2) Requesting backup semaphore lock (0417b43b9286)
+0878.752 (2) [Info] Lock (updraft_lock_0417b43b9286, wp_options) acquired
+0878.756 (2) Backup run: resumption=2, nonce=0417b43b9286, file_nonce=0417b43b9286 begun at=1704821139 (879s ago), job type=backup, previous check-in=43.21s
+0878.760 (2) Scheduling a resumption (3) after 300 seconds (1704822318) in case this run gets aborted
+0878.784 (2) Checking if we have a zip executable available
+0878.786 (2) Creation of backups of directories: had begun; will resume
+0878.790 (2) Beginning creation of dump of plugins (split every: 400 MB)
+0878.791 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip: this file has already been created (age: 268 s)
+0878.796 (2) Beginning creation of dump of themes (split every: 400 MB)
+0878.798 (2) File exists (C:\Users\Pierre\Local Sites\club-ml\app\public/wp-content/updraft/backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp), but was not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1704821761, time_now=1704822018, diff=257)
+0878.806 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: Zip file already exists, with 1001 files
+0879.106 (2) Total entities for the zip file: 319 directories, 2035 files (0 skipped as non-modified), 44.2 MB
+0879.118 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 100 files added (on-disk size: 6301.9 KB)
+0879.121 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 200 files added (on-disk size: 6301.9 KB)
+0879.125 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 300 files added (on-disk size: 6301.9 KB)
+0879.129 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 400 files added (on-disk size: 6301.9 KB)
+0879.133 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 500 files added (on-disk size: 6301.9 KB)
+0879.136 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 600 files added (on-disk size: 6301.9 KB)
+0879.140 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 700 files added (on-disk size: 6301.9 KB)
+0879.143 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 800 files added (on-disk size: 6301.9 KB)
+0879.147 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 900 files added (on-disk size: 6301.9 KB)
+0879.150 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1000 files added (on-disk size: 6301.9 KB)
+0879.174 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1100 files added (on-disk size: 6301.9 KB)
+0879.203 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1200 files added (on-disk size: 6301.9 KB)
+0879.233 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1300 files added (on-disk size: 6301.9 KB)
+0879.258 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1400 files added (on-disk size: 6301.9 KB)
+0879.280 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1500 files added (on-disk size: 6301.9 KB)
+0879.303 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1600 files added (on-disk size: 6301.9 KB)
+0879.324 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1700 files added (on-disk size: 6301.9 KB)
+0879.345 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1800 files added (on-disk size: 6301.9 KB)
+0879.369 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 1900 files added (on-disk size: 6301.9 KB)
+0879.391 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.tmp: 2000 files added (on-disk size: 6301.9 KB)
+0879.394 (2) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28 MB, 2035 files batched, 1001 (1001) added so far); re-opening (prior size: 6301.9 KB)
+0889.193 (2) Creating zip file manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.list-temp.tmp)
+0889.201 (2) Successfully created zip file manifest (size: 142847)
+0889.352 (2) Created themes zip (0) - 22316.7 KB in 10.6 s (2115.2 KB/s) (sha1: 5261dcd2e9dc49830459e6fb4f1352e931b978cc, sha256: 4940ab5fc1104a66a801994368c59feabc25f42615788ca5fd393538d551e9ce)
+0889.358 (2) Cloud backup selection (1/1): none with instance (1/1) (last)
+0889.360 (2) No remote despatch: user chose no remote backup service
+0889.361 (2) Recording as successfully uploaded: backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip
+0889.364 (2) Deleting zip manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip.list.tmp)
+0889.368 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0889.370 (2) Number of backup sets in history: 0; groups (db): 1
+0889.371 (2) Number of backup sets in history: 0; groups (files): 1
+0889.373 (2) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0889.380 (2) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0889.382 (2) Looking for candidates to backup in: C:\Users\Pierre\Local Sites\club-ml\app\public/wp-content/uploads
+0889.384 (2) finding files: 2023: adding to list (1)
+0889.387 (2) finding files: 2024: adding to list (2)
+0889.389 (2) finding files: elementor: adding to list (3)
+0889.390 (2) finding files: wpforms: adding to list (4)
+0889.392 (2) Beginning creation of dump of uploads (split every: 400 MB)
+0889.409 (2) Total entities for the zip file: 8 directories, 30 files (0 skipped as non-modified), 4.4 MB
+0889.564 (2) Creating zip file manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-uploads.zip.list-temp.tmp)
+0889.566 (2) Successfully created zip file manifest (size: 1658)
+0889.597 (2) Created uploads zip (0) - 3403.4 KB in 0.2 s (16926 KB/s) (sha1: db677814694ad079968057cd931b6719d6d0a000, sha256: 6592f82e52d4d1bba672d5f6b3584e769a71282b7e3be44ded70898f0ee2dfed)
+0889.603 (2) Cloud backup selection (1/1): none with instance (1/1) (last)
+0889.604 (2) No remote despatch: user chose no remote backup service
+0889.606 (2) Recording as successfully uploaded: backup_2024-01-09-1725_Club_Ml_0417b43b9286-uploads.zip
+0889.609 (2) Deleting zip manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-uploads.zip.list.tmp)
+0889.613 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0889.614 (2) Number of backup sets in history: 0; groups (db): 1
+0889.615 (2) Number of backup sets in history: 0; groups (files): 1
+0889.617 (2) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0889.623 (2) No backup of mu-plugins: excluded by user's options
+0889.626 (2) Beginning backup of other directories found in the content directory (index: 0)
+0889.628 (2) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0889.629 (2) Looking for candidates to backup in: C:\Users\Pierre\Local Sites\club-ml\app\public/wp-content
+0889.631 (2) finding files: index.php: adding to list (1)
+0889.632 (2) finding files: languages: adding to list (2)
+0889.633 (2) finding files: plugins: skipping: this is the plugins directory
+0889.635 (2) finding files: themes: skipping: this is the themes directory
+0889.636 (2) finding files: updraft: skipping: this is the updraft directory
+0889.638 (2) finding files: upgrade: skipping: excluded by options
+0889.639 (2) finding files: upgrade-temp-backup: adding to list (3)
+0889.641 (2) finding files: uploads: skipping: this is the uploads directory
+0889.677 (2) Total entities for the zip file: 4 directories, 264 files (0 skipped as non-modified), 7.5 MB
+0889.707 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0889.738 (2) Zip: backup_2024-01-09-1725_Club_Ml_0417b43b9286-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0891.198 (2) Creating zip file manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-others.zip.list-temp.tmp)
+0891.201 (2) Successfully created zip file manifest (size: 20931)
+0891.255 (2) Created others zip (0) - 2201.8 KB in 1.6 s (1368.7 KB/s) (sha1: 91d49f4ecfcc6ebc4c6a126cd8875c7beda75b8b, sha256: e8a2c6cb112f2b76319b1fd1398e6b984437fb9f6267addc3dfda16d64a05984)
+0891.264 (2) Cloud backup selection (1/1): none with instance (1/1) (last)
+0891.266 (2) No remote despatch: user chose no remote backup service
+0891.268 (2) Recording as successfully uploaded: backup_2024-01-09-1725_Club_Ml_0417b43b9286-others.zip
+0891.274 (2) Deleting zip manifest (backup_2024-01-09-1725_Club_Ml_0417b43b9286-others.zip.list.tmp)
+0891.279 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0891.281 (2) Number of backup sets in history: 0; groups (db): 1
+0891.282 (2) Number of backup sets in history: 0; groups (files): 1
+0891.284 (2) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0891.298 (2) Saving backup status to database (elements: 8)
+0891.301 (2) Resuming creation of database dump (WordPress DB)
+0891.303 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0891.308 (2) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0895.776 (2) Binary mysqldump: error (code: 2)
+0895.787 (2) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump.exe
+0900.036 (2) Binary mysqldump: error (code: 2)
+0900.116 (2) Table wp_options: Total expected rows (via COUNT): 267
+0900.118 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.143 (2) Table wp_options: Rows added in this batch (next record: 2183): 263 (uncompressed bytes in this segment=739006) in 0.06 seconds
+0900.156 (2) Table wp_options: finishing file(s) (2, 78.7 KB)
+0900.168 (2) Table wp_users: Total expected rows (via COUNT): 2
+0900.169 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.174 (2) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1600) in 0.01 seconds
+0900.181 (2) Table wp_users: finishing file(s) (2, 0.7 KB)
+0900.192 (2) Table wp_usermeta: Total expected rows (via COUNT): 43
+0900.193 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.197 (2) Table wp_usermeta: Rows added in this batch (next record: 43): 43 (uncompressed bytes in this segment=3555) in 0.01 seconds
+0900.206 (2) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0900.214 (2) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 70
+0900.216 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.221 (2) Table wp_actionscheduler_actions: Rows added in this batch (next record: 134): 70 (uncompressed bytes in this segment=28850) in 0.01 seconds
+0900.231 (2) Table wp_actionscheduler_actions: finishing file(s) (2, 2.7 KB)
+0900.237 (2) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0900.241 (2) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=626) in 0.01 seconds
+0900.248 (2) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0900.255 (2) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0900.257 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.261 (2) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=744) in 0.01 seconds
+0900.269 (2) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0900.277 (2) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 190
+0900.279 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.284 (2) Table wp_actionscheduler_logs: Rows added in this batch (next record: 329): 190 (uncompressed bytes in this segment=16745) in 0.01 seconds
+0900.291 (2) Table wp_actionscheduler_logs: finishing file(s) (2, 2.2 KB)
+0900.320 (2) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0900.325 (2) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.03 seconds
+0900.336 (2) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0900.345 (2) Table wp_comments: Total expected rows (via COUNT): 1
+0900.347 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.350 (2) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2141) in 0.01 seconds
+0900.358 (2) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0900.406 (2) Table wp_links: Total expected rows (via COUNT): 0
+0900.413 (2) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.05 seconds
+0900.422 (2) Table wp_links: finishing file(s) (2, 0.5 KB)
+0900.435 (2) Table wp_postmeta: Total expected rows (via COUNT): 83
+0900.437 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.441 (2) Table wp_postmeta: Rows added in this batch (next record: 109): 83 (uncompressed bytes in this segment=9735) in 0.01 seconds
+0900.451 (2) Table wp_postmeta: finishing file(s) (2, 2.2 KB)
+0900.463 (2) Table wp_posts: Total expected rows (via COUNT): 44
+0900.464 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.470 (2) Table wp_posts: Rows added in this batch (next record: 59): 44 (uncompressed bytes in this segment=44549) in 0.01 seconds
+0900.480 (2) Table wp_posts: finishing file(s) (2, 6.2 KB)
+0900.488 (2) Table wp_term_relationships: Total expected rows (approximate): 26
+0900.493 (2) Table wp_term_relationships: Rows added in this batch (next record: 100000): 26 (uncompressed bytes in this segment=1022) in 0.01 seconds
+0900.501 (2) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0900.512 (2) Table wp_term_taxonomy: Total expected rows (via COUNT): 15
+0900.513 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.517 (2) Table wp_term_taxonomy: Rows added in this batch (next record: 16): 15 (uncompressed bytes in this segment=1658) in 0.01 seconds
+0900.527 (2) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0900.558 (2) Table wp_termmeta: Total expected rows (via COUNT): 0
+0900.562 (2) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.02 seconds
+0900.570 (2) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0900.579 (2) Table wp_terms: Total expected rows (via COUNT): 15
+0900.580 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.584 (2) Table wp_terms: Rows added in this batch (next record: 16): 15 (uncompressed bytes in this segment=1309) in 0.01 seconds
+0900.591 (2) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0900.603 (2) Table wp_aioseo_cache: Total expected rows (via COUNT): 14
+0900.605 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.609 (2) Table wp_aioseo_cache: Rows added in this batch (next record: 56): 14 (uncompressed bytes in this segment=93626) in 0.01 seconds
+0900.619 (2) Table wp_aioseo_cache: finishing file(s) (2, 18 KB)
+0900.628 (2) Table wp_aioseo_notifications: Total expected rows (via COUNT): 0
+0900.631 (2) Table wp_aioseo_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1710) in 0.01 seconds
+0900.639 (2) Table wp_aioseo_notifications: finishing file(s) (2, 0.5 KB)
+0900.652 (2) Table wp_aioseo_posts: Total expected rows (via COUNT): 9
+0900.654 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.658 (2) Table wp_aioseo_posts: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=12654) in 0.01 seconds
+0900.667 (2) Table wp_aioseo_posts: finishing file(s) (2, 1.9 KB)
+0900.686 (2) Table wp_e_events: Total expected rows (via COUNT): 10
+0900.687 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.690 (2) Table wp_e_events: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=2553) in 0.02 seconds
+0900.697 (2) Table wp_e_events: finishing file(s) (2, 0.7 KB)
+0900.717 (2) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0900.721 (2) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.02 seconds
+0900.730 (2) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0900.771 (2) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0900.776 (2) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1970) in 0.04 seconds
+0900.785 (2) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0900.809 (2) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0900.810 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.814 (2) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=974) in 0.02 seconds
+0900.824 (2) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0900.833 (2) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 5
+0900.835 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.838 (2) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=2873) in 0.01 seconds
+0900.846 (2) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.9 KB)
+0900.868 (2) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0900.870 (2) Last successful resumption was 1 runs ago; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0900.871 (2) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=766) in 0.02 seconds
+0900.881 (2) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0900.882 (2) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\Pierre\Local Sites\club-ml\app\public/wp-content/updraft/backup_2024-01-09-1725_Club_Ml_0417b43b9286-db.gz (line 1976, C:\Users\Pierre\Local Sites\club-ml\app\public\wp-content\plugins\updraftplus\backup.php)
+0900.885 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_options.table.tmpr2184.gz (1/25/fopen): adding to final database dump
+0900.887 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_options.table.gz (2/25/fopen): adding to final database dump
+0900.889 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_users.table.tmpr3.gz (3/25/fopen): adding to final database dump
+0900.891 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_users.table.gz (4/25/fopen): adding to final database dump
+0900.893 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_usermeta.table.tmpr44.gz (5/25/fopen): adding to final database dump
+0900.895 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_usermeta.table.gz (6/25/fopen): adding to final database dump
+0900.896 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_actions.table.tmpr135.gz (7/25/fopen): adding to final database dump
+0900.897 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_actions.table.gz (8/25/fopen): adding to final database dump
+0900.899 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/25/fopen): adding to final database dump
+0900.900 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_claims.table.gz (10/25/fopen): adding to final database dump
+0900.911 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/25/fopen): adding to final database dump
+0900.912 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_groups.table.gz (12/25/fopen): adding to final database dump
+0900.914 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_logs.table.tmpr330.gz (13/25/fopen): adding to final database dump
+0900.915 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_actionscheduler_logs.table.gz (14/25/fopen): adding to final database dump
+0900.917 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_commentmeta.table.tmpr0.gz (15/25/fopen): adding to final database dump
+0900.918 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_commentmeta.table.gz (16/25/fopen): adding to final database dump
+0900.920 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_comments.table.tmpr2.gz (17/25/fopen): adding to final database dump
+0900.921 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_comments.table.gz (18/25/fopen): adding to final database dump
+0900.923 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_links.table.tmpr0.gz (19/25/fopen): adding to final database dump
+0900.925 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_links.table.gz (20/25/fopen): adding to final database dump
+0900.926 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_postmeta.table.tmpr110.gz (21/25/fopen): adding to final database dump
+0900.927 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_postmeta.table.gz (22/25/fopen): adding to final database dump
+0900.929 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_posts.table.tmpr60.gz (23/25/fopen): adding to final database dump
+0900.931 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_posts.table.gz (24/25/fopen): adding to final database dump
+0900.932 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_term_relationships.table.tmpr100001.gz (25/25/fopen): adding to final database dump
+0900.934 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_term_relationships.table.gz (26/25/fopen): adding to final database dump
+0900.935 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_term_taxonomy.table.tmpr17.gz (27/25/fopen): adding to final database dump
+0900.937 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_term_taxonomy.table.gz (28/25/fopen): adding to final database dump
+0900.944 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_termmeta.table.tmpr0.gz (29/25/fopen): adding to final database dump
+0900.946 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_termmeta.table.gz (30/25/fopen): adding to final database dump
+0900.948 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_terms.table.tmpr17.gz (31/25/fopen): adding to final database dump
+0900.952 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_terms.table.gz (32/25/fopen): adding to final database dump
+0900.953 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_aioseo_cache.table.tmpr57.gz (33/25/fopen): adding to final database dump
+0900.955 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_aioseo_cache.table.gz (34/25/fopen): adding to final database dump
+0900.957 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_aioseo_notifications.table.tmpr0.gz (35/25/fopen): adding to final database dump
+0900.959 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_aioseo_notifications.table.gz (36/25/fopen): adding to final database dump
+0900.960 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_aioseo_posts.table.tmpr10.gz (37/25/fopen): adding to final database dump
+0900.961 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_aioseo_posts.table.gz (38/25/fopen): adding to final database dump
+0900.963 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_e_events.table.tmpr11.gz (39/25/fopen): adding to final database dump
+0900.965 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_e_events.table.gz (40/25/fopen): adding to final database dump
+0900.966 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (41/25/fopen): adding to final database dump
+0900.967 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpforms_payment_meta.table.gz (42/25/fopen): adding to final database dump
+0900.969 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpforms_payments.table.tmpr0.gz (43/25/fopen): adding to final database dump
+0900.970 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpforms_payments.table.gz (44/25/fopen): adding to final database dump
+0900.982 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpforms_tasks_meta.table.tmpr5.gz (45/25/fopen): adding to final database dump
+0900.984 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpforms_tasks_meta.table.gz (46/25/fopen): adding to final database dump
+0900.985 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpmailsmtp_debug_events.table.tmpr6.gz (47/25/fopen): adding to final database dump
+0900.987 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpmailsmtp_debug_events.table.gz (48/25/fopen): adding to final database dump
+0900.988 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr2.gz (49/25/fopen): adding to final database dump
+0900.990 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db-table-wp_wpmailsmtp_tasks_meta.table.gz (50/25/fopen): adding to final database dump
+0901.051 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db.gz: finished writing out complete database file (122.9 KB)
+0901.073 (2) Total database tables backed up: 25 (backup_2024-01-09-1725_Club_Ml_0417b43b9286-db.gz, size: 125922, sha1: 53a58879ab78123a7e5b985b43308f805ddb7952, sha256: 264ecb3f33d4518eb1e9f580d997dcd39d13e81068c0da75fc6a078fed896653)
+0901.081 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-plugins.zip: plugins: This file has already been successfully uploaded
+0901.082 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-themes.zip: themes: This file has already been successfully uploaded
+0901.083 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-uploads.zip: uploads: This file has already been successfully uploaded
+0901.085 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-others.zip: others: This file has already been successfully uploaded
+0901.086 (2) backup_2024-01-09-1725_Club_Ml_0417b43b9286-db.gz: db: This file has not yet been successfully uploaded: will queue
+0901.087 (2) Saving backup history. Total backup size: 81.1 MB
+0901.091 (2) Requesting upload of the files that have not yet been successfully uploaded (1)
+0901.095 (2) Cloud backup selection (1/1): none with instance (1/1) (last)
+0901.097 (2) No remote despatch: user chose no remote backup service
+0901.098 (2) Recording as successfully uploaded: backup_2024-01-09-1725_Club_Ml_0417b43b9286-db.gz
+0901.108 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0901.109 (2) Number of backup sets in history: 1; groups (db): 1
+0901.111 (2) Examining (for databases) backup set with group_id=0, nonce=0417b43b9286, datestamp=1704821139 (Jan 09 2024 17:25:39)
+0901.112 (2) This backup set is the backup set just made, so will not be deleted.
+0901.112 (2) Number of backup sets in history: 1; groups (files): 1
+0901.113 (2) Examining (for files) backup set with nonce=0417b43b9286, datestamp=1704821139 (Jan 09 2024 17:25:39)
+0901.113 (2) This backup set is the backup set just made, so will not be deleted.
+0901.114 (2) This backup set is the backup set just made, so will not be deleted.
+0901.115 (2) This backup set is the backup set just made, so will not be deleted.
+0901.115 (2) This backup set is the backup set just made, so will not be deleted.
+0901.115 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0901.116 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0901.119 (2) Resume backup (0417b43b9286, 2): finish run
+0901.123 (2) [Info] Lock option (updraft_lock_0417b43b9286, wp_options) released
+0901.126 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0901.132 (2) No email will/can be sent - the user has not configured an email address.
+0901.134 (2) The backup succeeded and is now complete
